@@ -1,6 +1,5 @@
 📈 Time Series Stock Market Forecasting
 This project focuses on analyzing and forecasting stock market trends using various time series models, as part of my internship at ZIDIO Technologies.
-
 We explored multiple forecasting techniques on historical stock data to understand time-based patterns and make short-term predictions using both statistical and deep learning methods.
 
 🚀 Project Goals
@@ -12,6 +11,7 @@ SARIMA
 Facebook Prophet
 LSTM (Deep Learning)
 Evaluate model performance using visualization and metrics.
+
 📊 Tech Stack
 Language: Python
 Libraries:
@@ -20,6 +20,7 @@ yfinance, pmdarima, statsmodels
 fbprophet
 tensorflow.keras for LSTM
 Optional Tools: Streamlit or Flask for deployment (not implemented in this version)
+
 📌 Results & Insights
 ARIMA & SARIMA: Performed well on Reliance stock, good for modeling linear trends.
 Prophet: Provided intuitive trend-seasonality decomposition, easier for business understanding.
